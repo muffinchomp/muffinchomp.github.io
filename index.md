@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Web Development Projects 
 
 [Park Ranger](https://afternoon-tundra-35542.herokuapp.com/)
 <img src="images/parkranger.png?raw=true"/>
@@ -17,9 +17,9 @@
 
 ---
 
-### Category Name 2
+### Web Design Sites
 
-- [Project 1 Title](http://example.com/)
+- [Tulsa Higher Care Clinic](https://www.tulsahighercareclinic.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
