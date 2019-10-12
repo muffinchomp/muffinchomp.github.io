@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Park Ranger](https://afternoon-tundra-35542.herokuapp.com/)
+<img src="images/parkranger.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
